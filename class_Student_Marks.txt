@@ -31,14 +31,7 @@ class Student
         }
      return sum;
     }
-   /* void Student::input()
-    {
-        for(int u=0;u<5;u++)
-        {
-            cin>>s[u];
-        }
-    }
-    */
+  
 int main() {
     int n; // number of students
     cin >> n;
